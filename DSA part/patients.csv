@@ -1,0 +1,27 @@
+ID,Name,Age,Gender,Contact,History,Symptoms,MedicalHistory
+1,Abdul Moqeet Butt,25,Male,923238649191,,fever ,allergies
+2,Abdul Moqeet Butt,25,Male,923238649191,,fever ,allergies
+3,Hadia,16,Female,9234587659493,,cough fever,allergy
+4,Hadia,16,Female,9234587659493,,cough fever,allergy
+5,abc,25,Male,3123123123,,cough,allergy
+6,Abdullah,19,Male,923238649191,,Heart pain,Cancer
+7,Ahmad ,25,Female,923238649191,,Heart Pain,Heart
+8,Hadi,25,Female,12345678910,,flu heart_pain,Heart
+9,Hadi,25,Female,12345678910,,chest pain,Heart
+10,Azlan,25,Male,923214569432,,chest pain,Flu chest pain
+11,Azlan,25,Male,923214569432,,chest pain breathlessness sweating,Flu chest pain
+12,Azlan,25,Male,923214569432,,chest_pain breathlessness sweating,Flu chest pain
+13,Hadi,25,Male,234567876542,,chest_pain fast_heart_rate palpitations sweating breathlessness,
+14,Hadi,25,Male,234567876542,,chest_pain fast_heart_rate palpitations sweating breathlessness,
+15,Ahmad ,25,Male,923238649191,,swollen_legs painful_walking prominent_veins_on_calf,allaergy
+16,Ahmad ,25,Male,923238649191,,chest_pain breathlessness palpitations fast_heart_rate sweating,allaergy
+17,Amna,25,Female,1234567890,,chest pain short breath sweating,none
+18,Amna,25,Female,1234567890,,chest pain short breath sweating,none
+19,Abdullah,25,Male,1234567890,,chest pain short breath sweating,allergy
+20,Hadi,25,Male,3238649191,,chest pain shortness of breath sweating,Allergy
+21,Hadi,25,Male,3238649191,,breathing problem cough chest congestion,Allergy
+22,Hadi,25,Male,3238649191,,severe headache dizziness confusion,Allergy
+23,Hadi,25,Male,3238649191,,persistent cough breathing difficulty chest congestion wheezing shortness of breath cough mucus asthma attack breathing problem,Allergy
+24,Hadi,25,Male,3238649191,,yellow skin dark urine abdominal pain loss of appetite nausea fatigue,Allergy
+25,Hadi,25,Male,23456787654,,severe headache dizziness confusion,none
+26,fatima,25,Male,01234567898,,breathing problem cough chest congestion,

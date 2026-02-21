@@ -1,0 +1,46 @@
+disease,category
+Heart attack,Heart
+Hypertension,Heart
+Varicose veins,Heart
+Paralysis (brain hemorrhage),Brain
+Migraine,Brain
+Vertigo (Paroxysmal Positional Vertigo),Brain
+(vertigo) Paroymsal Positional Vertigo,Brain
+Cervical spondylosis,Brain
+Bronchial Asthma,Respiratory
+Pneumonia,Respiratory
+Tuberculosis,Respiratory
+Common Cold,Respiratory
+Allergy,Respiratory
+Hepatitis A,Liver
+Hepatitis B,Liver
+Hepatitis C,Liver
+Hepatitis D,Liver
+Hepatitis E,Liver
+Alcoholic hepatitis,Liver
+Jaundice,Liver
+Chronic cholestasis,Liver
+Diabetes,Endocrine
+Hypothyroidism,Endocrine
+Hyperthyroidism,Endocrine
+Hypoglycemia,Endocrine
+Depression,Mental_Health
+Anxiety,Mental_Health
+Anxiety disorder,Mental_Health
+Acne,Skin
+Psoriasis,Skin
+Impetigo,Skin
+Fungal infection,Skin
+Chicken pox,Skin
+GERD,General
+Drug Reaction,General
+Peptic ulcer diseae,General
+AIDS,General
+Gastroenteritis,General
+Malaria,General
+Dengue,General
+Typhoid,General
+Dimorphic hemmorhoids(piles),General
+Osteoarthristis,General
+Arthritis,General
+Urinary tract infection,General

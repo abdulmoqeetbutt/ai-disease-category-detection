@@ -1,0 +1,2 @@
+PatientID,DoctorID,Date,Time,Type,Severity
+1,1,2026-01-01,04:43:00,Regular,0
